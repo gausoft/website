@@ -4,7 +4,7 @@ gem 'jekyll', '4.2.0'
 gem 'webrick'
 
 # Used for custom _plugins
-gem 'activesupport', '~> 7.2.3'
+gem 'activesupport', '~> 8.0.5'
 gem 'liquid-tag-parser', '~> 2.0.2'
 
 group :jekyll_plugins do
